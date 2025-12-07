@@ -1,0 +1,205 @@
+{
+    "best_hp": {
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 2,
+        "weight_decay": 0.0,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 1.0,
+    "test_auroc": 0.9965,
+    "test_aupr": 0.9968904163051319
+}{
+    "best_hp": {
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 2,
+        "weight_decay": 0.0,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 10
+    },
+    "best_val_aupr": 0.999390243902439,
+    "test_auroc": 0.9954,
+    "test_aupr": 0.996055930896002
+}{
+    "best_hp": {
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 2,
+        "weight_decay": 0.0,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 10
+    },
+    "best_val_aupr": 0.8274574729128262,
+    "test_auroc": 0.7160518053375196,
+    "test_aupr": 0.6156407364701674
+}{
+    "best_hp": {
+        "lr": 0.005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 256,
+        "gnn_layers": 3,
+        "weight_decay": 0.0,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 20
+    },
+    "best_val_aupr": 0.8562158309063191,
+    "test_auroc": 0.8124018838304552,
+    "test_aupr": 0.6927152702687815
+}{
+    "best_hp": {
+        "lr": 0.005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 3,
+        "weight_decay": 0.001,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.7888450233777581,
+    "test_auroc": 0.8815397126592572,
+    "test_aupr": 0.7310511523976133
+}{
+    "best_hp": {
+        "lr": 0.005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 3,
+        "weight_decay": 0.001,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.8116339566750223,
+    "test_auroc": 0.9192193006234752,
+    "test_aupr": 0.8098475822497255
+}{
+    "best_hp": {
+        "lr": 0.005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 3,
+        "weight_decay": 0.001,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.7985651236982914,
+    "test_auroc": 0.8736785036595283,
+    "test_aupr": 0.6874958763331178
+}{
+    "best_hp": {
+        "lr": 0.005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 3,
+        "weight_decay": 0.001,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.9156457069990594,
+    "test_auroc": 0.8519924098671727,
+    "test_aupr": 0.654868217865042
+}{
+    "best_hp": {
+        "lr": 0.0005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 3,
+        "weight_decay": 0.001,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.9186459166517063,
+    "test_auroc": 0.8991596638655461,
+    "test_aupr": 0.7690515324864942
+}{
+    "best_hp": {
+        "lr": 0.0005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 3,
+        "weight_decay": 0.001,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.9173844540255164,
+    "test_auroc": 0.924640824071564,
+    "test_aupr": 0.8169756723083341
+}{
+    "best_hp": {
+        "lr": 0.0005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 3,
+        "weight_decay": 0.001,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.9009087993338468,
+    "test_auroc": 0.8631065329357549,
+    "test_aupr": 0.6885418929313583
+}{
+    "best_hp": {
+        "lr": 0.0005,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 3,
+        "weight_decay": 0.001,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.8122079771490447,
+    "test_auroc": 0.5419694767441859,
+    "test_aupr": 0.6260361861502532
+}

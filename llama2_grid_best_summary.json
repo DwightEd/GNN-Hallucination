@@ -1,0 +1,18 @@
+{
+    "best_hp": {
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "batch_size": 32,
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers": 2,
+        "weight_decay": 0.0,
+        "norm": "layer",
+        "residual_encoder": true,
+        "residual_mp": true,
+        "epochs": 50
+    },
+    "best_val_aupr": 0.6265480145370709,
+    "test_auroc": 0.8851642289456384,
+    "test_aupr": 0.5823638910475152
+}

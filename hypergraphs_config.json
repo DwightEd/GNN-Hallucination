@@ -1,0 +1,13 @@
+[ {
+        "lr": 3e-4,
+        "scheduler": "cosine",
+        "dropout": 0.25,
+        "hidden_dim": 128,
+        "gnn_layers":2,
+        "weight_decay": 0.001,
+        "residual_mp": true,
+        "epochs": 50,
+         "test_auroc":94.39,
+         "test_auprc":69.51
+    }
+]

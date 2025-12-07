@@ -1,0 +1,7 @@
+Summary 通过length-only
+seq_len: AUROC=57.96, AUPR=72.87
+resp_len: AUROC=59.93, AUPR=74.18
+#he: AUROC=59.96, AUPR=74.20  
+
+使用方案A后
+{'auroc': 0.8408782867985904, 'aupr': 0.5296252042128892}
